@@ -484,7 +484,7 @@ img {
   height: 100%;
   width: var(--_progress);
   background-color: white;
-  transition: wifth var(--transition-function) var(--transition-duration);
+  transition: width var(--transition-function) var(--transition-duration);
 }
 
 @media (max-width: 1280px) {
