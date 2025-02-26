@@ -22,7 +22,6 @@ const SingleItem = ({ id, name, image, banner, artist, idPath }) => {
         <div className="single-item__2lines">
           <p className="single-item__title">{name}</p>
         </div>
-
         <p className="single-item__type">{artist ?? "Artista"}</p>
       </div>
     </Link>
